@@ -1,4 +1,6 @@
 echo "Welcome to Guessing game!!!"
+echo "Instructions: You need to guess how many files are in the current directory until you guess the correct answer."
+echo "Goog luck!!!"
  
 function ask {
   echo "How many files are in the current directory?"

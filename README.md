@@ -6,6 +6,8 @@
 **Creation date:** 05/06/2019
 
 
-**Time:** 00:23:42
+**Time:** 11:59:01
 
-**Number of lines in guessing_game.sh:** 25
+
+**Number of lines in guessing_game.sh:**
+      27
